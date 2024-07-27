@@ -58,5 +58,14 @@ int main() {
 		withdraw(trust_accounts, 1000);
 	}
 	
+	cout << "\n--------------- Pointer --------------------" << endl;
+	Account* p1 = new Account;
+	Account* p2 = new Saving_Account;
+	Account* p3 = new Checking_Account;
+	Account* p4 = new Trust_Account;
+	p1->withdraw(1000);
+	p2->withdraw(1000);
+	p3->withdraw(1000);
+	p4->withdraw(1000);
 	return 0;
 }
