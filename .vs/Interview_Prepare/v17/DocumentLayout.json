@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B5CB02D-F1C3-466B-A212-2E8118115D98}|Pure_virtual_function\\Pure_virtual_function.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Pure_virtual_function\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5B5CB02D-F1C3-466B-A212-2E8118115D98}|Pure_virtual_function\\Pure_virtual_function.vcxproj|solutionrelative:Pure_virtual_function\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Checking_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Checking_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Checking_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Checking_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Saving_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Saving_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Trust_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Trust_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Trust_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Trust_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Saving_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Saving_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account_Util.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -25,30 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account_Util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Account_Util.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Checking_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Checking_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Checking_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Checking_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Trust_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Trust_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Trust_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Trust_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Saving_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Saving_Account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Saving_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{00DD16A2-39BE-48C2-9567-C9C2D38FFC90}|Inheritance\\Inheritance.vcxproj|solutionrelative:Inheritance\\Saving_Account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,68 +62,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Pure_virtual_function\\main.cpp",
-              "RelativeDocumentMoniker": "Pure_virtual_function\\main.cpp",
-              "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Pure_virtual_function\\main.cpp",
-              "RelativeToolTip": "Pure_virtual_function\\main.cpp",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-27T14:26:43.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Trust_Account.cpp",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Trust_Account.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Trust_Account.cpp",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Trust_Account.cpp",
               "RelativeToolTip": "Inheritance\\Trust_Account.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAACAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-21T17:24:55.296Z"
+              "WhenOpened": "2024-07-21T17:24:55.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Trust_Account.h",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Trust_Account.h",
               "RelativeDocumentMoniker": "Inheritance\\Trust_Account.h",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Trust_Account.h",
               "RelativeToolTip": "Inheritance\\Trust_Account.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-21T17:24:28.155Z"
+              "WhenOpened": "2024-07-21T17:24:28.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Checking_Account.cpp",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Checking_Account.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Checking_Account.cpp",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Checking_Account.cpp",
               "RelativeToolTip": "Inheritance\\Checking_Account.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-21T16:32:10.343Z"
+              "WhenOpened": "2024-07-21T16:32:10.343Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Checking_Account.h",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Checking_Account.h",
               "RelativeDocumentMoniker": "Inheritance\\Checking_Account.h",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Checking_Account.h",
               "RelativeToolTip": "Inheritance\\Checking_Account.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-21T16:31:50.443Z"
+              "WhenOpened": "2024-07-21T16:31:50.443Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Account_Util.cpp",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account_Util.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Account_Util.cpp",
@@ -139,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "Account_Util.h",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account_Util.h",
               "RelativeDocumentMoniker": "Inheritance\\Account_Util.h",
@@ -147,67 +134,70 @@
               "RelativeToolTip": "Inheritance\\Account_Util.h",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-21T15:42:58.202Z"
+              "WhenOpened": "2024-07-21T15:42:58.202Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Account.cpp",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Account.cpp",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account.cpp",
               "RelativeToolTip": "Inheritance\\Account.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-21T13:47:27.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Account.h",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account.h",
               "RelativeDocumentMoniker": "Inheritance\\Account.h",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Account.h",
               "RelativeToolTip": "Inheritance\\Account.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-07-21T13:46:51.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Saving_Account.cpp",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Saving_Account.cpp",
               "RelativeDocumentMoniker": "Inheritance\\Saving_Account.cpp",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Saving_Account.cpp",
               "RelativeToolTip": "Inheritance\\Saving_Account.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-21T13:47:36.011Z"
+              "WhenOpened": "2024-07-21T13:47:36.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Saving_Account.h",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Saving_Account.h",
               "RelativeDocumentMoniker": "Inheritance\\Saving_Account.h",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\Saving_Account.h",
               "RelativeToolTip": "Inheritance\\Saving_Account.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-07-21T14:49:29.35Z"
+              "WhenOpened": "2024-07-21T14:49:29.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\main.cpp",
               "RelativeDocumentMoniker": "Inheritance\\main.cpp",
               "ToolTip": "D:\\Study\\CPP_env_VS\\Interview_Prepare\\Inheritance\\main.cpp",
               "RelativeToolTip": "Inheritance\\main.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAcwDsAAAABAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAE0AAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-21T13:46:41.233Z",
               "EditorCaption": ""

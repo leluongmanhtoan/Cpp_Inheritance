@@ -5,9 +5,6 @@ Account::Account(string name, double balance)
 
 }
 
-Account::~Account() {
-
-}
 
 bool Account::deposit(double amount) {
 	if (amount < 0) {

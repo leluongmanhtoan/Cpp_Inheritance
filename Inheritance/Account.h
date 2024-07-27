@@ -14,9 +14,9 @@ protected:
 public:
 	//Account();
 	Account(string name = def_name, double balance = def_balance);
-	~Account();
+	virtual	~Account() = default;
 	
-	bool deposit(double amount);
-	bool withdraw(double amount);
+	virtual bool deposit(double amount) = 0;
+	virtual bool withdraw(double amount) = 0;
 	//double get_balance() const;
 };

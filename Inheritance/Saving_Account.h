@@ -13,7 +13,9 @@ protected:
 public:
 	
 	Saving_Account(string name = def_name, double balance = def_balance, double int_rate = def_int_rate);
-	bool deposit(double amount);
-	~Saving_Account();
+	virtual bool deposit(double amount) override;
+	virtual bool withdraw(double amount) override;
+
+	virtual ~Saving_Account() = default;
 
 };

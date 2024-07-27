@@ -8,7 +8,7 @@ int main() {
 	cout.precision(2);
 	cout << fixed;
 
-	cout << "\n---------------- Account Class ----------------------\n";
+	/*cout << "\n---------------- Account Class ----------------------\n";
 	vector<Account> accounts;
 	accounts.push_back(Account{});
 	accounts.push_back(Account{"Toan"});
@@ -66,6 +66,17 @@ int main() {
 	p1->withdraw(1000);
 	p2->withdraw(1000);
 	p3->withdraw(1000);
-	p4->withdraw(1000);
+	p4->withdraw(1000);*/
+	//Account joe;
+	Checking_Account c;
+	cout << c << endl;
+	Saving_Account s{ "Toan",5000,2.6 };
+	cout << s << endl;
+	s.deposit(10000);
+	cout << s << endl;
+	s.withdraw(5000);
+	cout << s << endl;
+	Account* ptr = new Trust_Account("Van Anh", 10000, 2.6);
+	cout << *ptr << endl;
 	return 0;
 }
